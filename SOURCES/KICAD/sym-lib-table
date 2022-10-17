@@ -1,4 +1,3 @@
 (sym_lib_table
-  (lib (name rkdev)(type Legacy)(uri /Users/rkn/Documents/KiCAD/lib/rkdev.lib)(options "")(descr ""))
-  (lib (name rk)(type Legacy)(uri /Users/rkn/Documents/KiCAD/lib/rk.lib)(options "")(descr ""))
+  (lib (name "AnalogIO-x8-rescue")(type "KiCad")(uri "${KIPRJMOD}/AnalogIO-x8-rescue.kicad_sym")(options "")(descr ""))
 )
